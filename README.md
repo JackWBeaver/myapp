@@ -11,7 +11,7 @@ Powershell
 
 ## Commands Used
 * git init
-* git remote add origin <URL>
+* git remote add origin 'URL'
 * git add .
 * git commit -m "text"
 * git push -u origin master
